@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">EjPeEye</string>
+    <string name="back">Back</string>
+    <string name="forward">Forward</string>
+    <string name="home">Home</string>
+    <string name="log_out">Log Out</string>
+    <string name="login">Login</string>
+    <string name="new_user">New user?</string>
+    <string name="placeholder_email">E-mail</string>
+    <string name="placeholder_password">Password</string>
+    <string name="icon_account_circle">icon_account_circle</string>
+
+    <string name="close_x_btn">X</string>
+    <string name="submit">Submit</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="reg_driving_license">Do you have a driving license?</string>
+    <string name="reg_driving">I\'m driving</string>
+    <string name="reg_walking">I\'m walking</string>
+    <string name="reg_height">Height (in cm)</string>
+    <string name="close_button">Close button</string>
+    <string name="reg_gradient">Gradient angle</string>
+    <string name="loading_temperature">Loading temperature…</string>
+    <string name="temperature_text">Current Temperature: %1$.1f°C</string>
+    <string name="temperature_fail_text">Failed to load temperature</string>
+    <string name="location_text">Location</string>
+    <string name="another_one">Another one</string>
+    <string name="local_weather">Local weather</string>
+    <string name="dbz">DBZ</string>
+    <string name="character_race_text">Race: %s</string>
+    <string name="character_maxKi_text">Power Lv: %s</string>
+</resources>
